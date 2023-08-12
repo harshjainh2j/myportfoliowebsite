@@ -228,7 +228,7 @@ button,input{
 
 /*===== Home Section =====*/
 .home{
-    background:url(/assets/img/homebg.jpg);
+    background:url(assets/img/homebg.jpg);
     background-size: cover;
     height: 100vh;
     background-position: center center;
