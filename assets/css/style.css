@@ -227,12 +227,12 @@ button,input{
 }
 
 /*===== Home Section =====*/
-.home{
-    background:url(assets/img/homebg.jpg);
+ .home{
+    background: url('assets/img/homebg.jpg');
     background-size: cover;
     height: 100vh;
     background-position: center center;
-}
+} 
 .home__container{
     position:relative;
     height: 100%;
@@ -1517,7 +1517,8 @@ padding: 4.5rem 1.5rem 2.5rem;
 }
 
 /* For Small Devices */
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 350px) 
+{
 
 
 
