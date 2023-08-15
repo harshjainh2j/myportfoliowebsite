@@ -1284,6 +1284,8 @@ color:var(--skin-color)
 
 .work__img{
     margin-bottom: var(--mb-0-75);
+    grid-template-columns: repeat(2,290px);
+
 }
 
 .work__title{
